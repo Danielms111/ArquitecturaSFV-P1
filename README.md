@@ -51,5 +51,5 @@ Desde el navegador:
 
 ## Instrucciones para Ejecutar
 Solo basta con ejecutar el archivo de automatización:
-1. Ejecutar el script: ./automaticacion.ps1
+1. Ejecutar el script: ./automatizacion.ps1
 2. http://localhost:3000
